@@ -4,5 +4,6 @@
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
     "i18n":"CN",
-    "script":"<script async src='//plug.js'></script>"
+    "script":"<script async src='//plug.js'></script>",
+    "exlink":{"home":"https://github.com/loite/loite.github.io"}
 }
